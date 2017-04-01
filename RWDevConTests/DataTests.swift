@@ -66,6 +66,6 @@ class DataTests: XCTestCase {
   }
   
   func testFailure(){
-    XCTFail("Deliberaty added failing test")
+    XCTFail("Deliberaty added failing test on branch")
   }
 }
